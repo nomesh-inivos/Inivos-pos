@@ -12,6 +12,16 @@
       <option name="url" value="https://repo.unicenta.org/maven2/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="netbeans" />
+      <option name="name" value="Netbeans rep" />
+      <option name="url" value="http://bits.netbeans.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="restapi" />
+      <option name="name" value="Repository for library Library[restapi]" />
+      <option name="url" value="https://download.java.net/maven/2/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
@@ -32,31 +42,6 @@
       <option name="url" value="https://repo1.maven.org/maven2" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="oracleReleases" />
-      <option name="name" value="oracle Released Java Packages" />
-      <option name="url" value="http://download.oracle.com/maven" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="unicenta-repo" />
-      <option name="name" value="unicenta-repo" />
-      <option name="url" value="http://repo.unicenta.org/maven2/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="netbeans" />
-      <option name="name" value="Netbeans rep" />
-      <option name="url" value="http://bits.netbeans.org/maven2/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="spring-repo" />
-      <option name="name" value="spring-repo" />
-      <option name="url" value="https://repo.spring.io/plugins-release/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="restapi" />
-      <option name="name" value="Repository for library Library[restapi]" />
-      <option name="url" value="https://download.java.net/maven/2/" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
@@ -65,11 +50,6 @@
       <option name="id" value="jcenter" />
       <option name="name" value="jcenter" />
       <option name="url" value="https://jcenter.bintray.com" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="maven2-repository.netbeans.maven2" />
-      <option name="name" value="Netbeans Maven Repository" />
-      <option name="url" value="http://bits.netbeans.org/maven2/" />
     </remote-repository>
   </component>
 </project>
